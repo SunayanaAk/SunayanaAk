@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SunayanaAk
+- 👋 Hi, I’m Sunayana Akash
 - 👀 I’m interested in Software Development
 - 🌱 I’m currently learning FullStack development
 - 💞️ I’m looking to collaborate on ...
